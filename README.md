@@ -1,2 +1,2 @@
 # hangman-scoreboard
-A hangman game with a scoreboard for multiple playes
+A hangman game with a scoreboard for multiple players
